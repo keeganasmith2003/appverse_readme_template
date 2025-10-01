@@ -3,14 +3,13 @@
 ## Overview
 A short description of what this Open OnDemand application does, who it’s for, and the problems it solves.  
 Include any relevant background or use cases.
-
+Also include intended audience (sysadmin or user-facing)
 ---
 
 ## Features
 - Key feature 1
 - Key feature 2
 - Key feature 3
-
 ---
 
 ## Requirements
