@@ -40,7 +40,7 @@ Specify whether this application is intended to help system administrators or us
 
 ## Collaboration
 
-- Instructions for how to contribute to your project
+- Instructions for how external collaborators can contribute to your project
 
 ## Awards
 
