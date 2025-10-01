@@ -14,7 +14,7 @@ Include any relevant background or use cases.
 ---
 
 ## Requirements
-- **System Requirements**: (e.g., Linux distribution / version, GPU/CPU, storage, memory)
+- **System Requirements**: (e.g., Linux distribution / version, GPU/CPU, storage, memory, architecture)
 - **Dependencies**: List modules, libraries, or external tools needed
 - **Software Versions**: e.g., Python 3.9+, R 4.1+, CUDA 12.0, etc.
 
