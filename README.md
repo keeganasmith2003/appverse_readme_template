@@ -43,7 +43,7 @@ Specify whether this application is intended to help system administrators or us
 
 ## References
 
-- references to software used by this application / borrowed code  
+- References to software used by this application / borrowed code  
 
 ## Collaboration
 
