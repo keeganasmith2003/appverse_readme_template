@@ -13,7 +13,7 @@ Specify whether this application is intended to help system administrators or us
 
 ---
 
-## Features
+## Application Features
 
 - Key feature 1
 - Key feature 2
